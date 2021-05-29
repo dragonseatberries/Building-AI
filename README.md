@@ -1,2 +1,2 @@
 # Building-AI
-Advanced exercise solutions for the course Building AI provided by Elements of AI
+These are my attempts at solving the advanced exercises of the course: Elements of AI, Building AI.
